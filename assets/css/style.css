@@ -32,8 +32,8 @@ p.font-opensans {
 }
 
 .loader-wrapper {
-  width: 16vw;
-  height: 16vw;
+  width: 200px;
+  height: 200px;
 }
 
 .loader {
